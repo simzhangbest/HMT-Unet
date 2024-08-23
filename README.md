@@ -4,13 +4,15 @@ This is the official code repository for "HMT-UNet: A hybird Mamba-Transformer V
 
 ![framework](img/framework-github.png)
 
-我们的训练代码，可以参考 VM-UnetV2 的 Repo, 请自己用该model 下的文件去替换。
+## trainning details
 
-如果有任何问题，欢迎联系和issue
+Our training code can refer to the VM-UnetV2 repository{[git link](https://github.com/nobodyplayer1/VM-UNetV2)}, please replace the files with those from this model.
 
-我的邮箱：dg20330034@smail.nju.edu.cn
+If there are any issues, feel free to contact and raise an issue.
 
-## 欢迎Cite:
+My email: dg20330034@smail.nju.edu.cn
+
+## Cite:
 
 ```
 @misc{2408.11289,
