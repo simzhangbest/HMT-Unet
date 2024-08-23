@@ -4,7 +4,7 @@ This is the official code repository for "HMT-UNet: A hybird Mamba-Transformer V
 
 ![framework](img/framework-github.png)
 
-## trainning details
+## training details
 
 Our training code can refer to the VM-UnetV2 repository{[git link](https://github.com/nobodyplayer1/VM-UNetV2)}, please replace the files with those from this model.
 
